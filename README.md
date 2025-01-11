@@ -9,3 +9,7 @@ Pip install -r requirements.txt
 
 ## Run File
 python number_plate.py
+
+
+https://github.com/user-attachments/assets/e5aac3e8-086d-4456-9193-32ad24c782ba
+
